@@ -1,0 +1,110 @@
+[
+  {
+    "type": "simple",
+    "id": 1,
+    "sku": "s1",
+    "title": "Кожанка",
+    "regular_price": {
+      "currency": "USD",
+      "value": 27.12
+    },
+    "image": "/images/1.png",
+    "brand": 9
+  },
+  {
+    "type": "simple",
+    "id": 2,
+    "sku": "s2",
+    "title": "Худи",
+    "regular_price": {
+      "currency": "USD",
+      "value": 36.87
+    },
+    "image": "/images/2.png",
+    "brand": 8
+  },
+  {
+    "type": "simple",
+    "id": 3,
+    "sku": "s3",
+    "title": "Футболка",
+    "regular_price": {
+      "currency": "USD",
+      "value": 28.91
+    },
+    "image": "/images/3.png",
+    "brand": 2
+  },
+  {
+    "type": "simple",
+    "id": 4,
+    "sku": "s4",
+    "title": "Футболка",
+    "regular_price": {
+      "currency": "USD",
+      "value": 41.23
+    },
+    "image": "/images/4.png",
+    "brand": 7
+  },
+  {
+    "type": "simple",
+    "id": 5,
+    "sku": "s5",
+    "title": "Рубашка",
+    "regular_price": {
+      "currency": "USD",
+      "value": 88.00
+    },
+    "image": "/images/5.png",
+    "brand": 3
+  },
+  {
+    "type": "simple",
+    "id": 6,
+    "sku": "s6",
+    "title": "Поло",
+    "regular_price": {
+      "currency": "USD",
+      "value": 127.41
+    },
+    "image": "/images/6.png",
+    "brand": 6
+  },
+  {
+    "type": "simple",
+    "id": 7,
+    "sku": "s7",
+    "title": "Свитшот",
+    "regular_price": {
+      "currency": "USD",
+      "value": 123.40
+    },
+    "image": "/images/7.png",
+    "brand": 5
+  },
+  {
+    "type": "simple",
+    "id": 8,
+    "sku": "s8",
+    "title": "Толстовка",
+    "regular_price": {
+      "currency": "USD",
+      "value": 92.32
+    },
+    "image": "/images/8.png",
+    "brand": 1
+  },
+  {
+    "type": "simple",
+    "id": 9,
+    "sku": "s9",
+    "title": "Рюкзак",
+    "regular_price": {
+      "currency": "USD",
+      "value": 53.40
+    },
+    "image": "/images/9.png",
+    "brand": 2
+  }
+]
